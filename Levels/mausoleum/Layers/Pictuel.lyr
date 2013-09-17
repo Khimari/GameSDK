@@ -75,9 +75,9 @@
    </Object>
   </LayerObjects>
   <ChildLayers>
+   <Layer Name="Decals" GUID="{739A7A60-AB46-40DE-AE83-7C578BE95FEB}" FullName="Pictuel/Decals" Hidden="0" Frozen="0" External="1" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" Expanded="0" IsDefaultColor="1" ID="0" Specs="1" ParentGUID="{26B112A9-4250-4445-943A-D116354AC32E}"/>
    <Layer Name="Brushes" GUID="{180DC762-2463-42F3-8D1B-3AA121BDD194}" FullName="Pictuel/Brushes" Hidden="0" Frozen="0" External="1" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" Expanded="1" IsDefaultColor="1" ID="0" Specs="1" ParentGUID="{26B112A9-4250-4445-943A-D116354AC32E}"/>
    <Layer Name="Particles" GUID="{4755B1EA-6D73-4E7F-AEF9-786B78FE51DD}" FullName="Pictuel/Particles" Hidden="0" Frozen="0" External="1" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" Expanded="0" IsDefaultColor="1" ID="0" Specs="1" ParentGUID="{26B112A9-4250-4445-943A-D116354AC32E}"/>
-   <Layer Name="Decals" GUID="{739A7A60-AB46-40DE-AE83-7C578BE95FEB}" FullName="Pictuel/Decals" Hidden="0" Frozen="0" External="1" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" Expanded="0" IsDefaultColor="1" ID="0" Specs="1" ParentGUID="{26B112A9-4250-4445-943A-D116354AC32E}"/>
   </ChildLayers>
  </Layer>
 </ObjectLayer>

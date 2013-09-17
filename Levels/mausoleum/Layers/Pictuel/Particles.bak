@@ -1,0 +1,5 @@
+<ObjectLayer>
+ <Layer Name="Particles" GUID="{4755B1EA-6D73-4E7F-AEF9-786B78FE51DD}" FullName="Pictuel/Particles" Hidden="0" Frozen="0" External="1" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" Expanded="0" IsDefaultColor="1" ID="0" Specs="1" ParentGUID="{26B112A9-4250-4445-943A-D116354AC32E}">
+  <LayerObjects />
+ </Layer>
+</ObjectLayer>

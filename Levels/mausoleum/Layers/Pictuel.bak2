@@ -1,6 +1,12 @@
 <ObjectLayer>
  <Layer Name="Pictuel" GUID="{26B112A9-4250-4445-943A-D116354AC32E}" FullName="Pictuel" Hidden="0" Frozen="0" External="1" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" Expanded="0" IsDefaultColor="1" ID="0" Specs="1">
   <LayerObjects>
+   <Object Type="Brush" Layer="Pictuel" Id="{E86B991F-1786-4A9E-9DF6-98C2906942AD}" Name="plate_small_11" Pos="1189.7571,701.50928,1171.782" FloorNumber="-1" Rotate="0.96998024,0.0095301559,0.031476445,0.24094972" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/mausoleum/decoration/dish/plate_small_001.cgf" OutdoorOnly="0" CastShadowMaps="1" RainOccluder="1" SupportSecondVisarea="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" AIRadius="-1" NoStaticDecals="0" NoAmnbShadowCaster="0" RecvWind="0" Occluder="0" DrawLast="0" RndFlags="1610612744">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
    <Object RndFlags="1073741832" ViewDistRatio="100" LMQuality="-8.0297587e+018" ExcludePickingMaterial="0" Type="Solid" Layer="Pictuel" Id="{D6609135-5ECC-406B-9FC3-91823ADA8FBC}" Name="red_box20" Pos="1004.0485,1002.0096,1028.3125" FloorNumber="-1" Rotate="0.63607824,0,0,-0.77162462" ColorRGB="16776960" Material="Materials/mausoleum/test/test_metal_001" MatLayersMask="0">
     <Brush ZeroTolerance="0">
      <Face p1="-1.1275024,0.96154785,2.5916748" p2="-1.1275024,-0.96142578,2.5916748" p3="-1.1275024,-0.96142578,0" NumberOfPoints="4" v0="0" v1="1" v2="2" v3="3" MatId="0" TexScale="1,1,0" TexShift="0,0,0" TexRotate="0">
@@ -24,6 +30,36 @@
      <Face p1="-1.1275024,-0.96142578,2.5916748" p2="-1.1275024,0.96154785,2.5916748" p3="1.1275024,0.96154785,2.5916748" NumberOfPoints="4" v0="16" v1="17" v2="18" v3="19" MatId="0" TexScale="1,1,0" TexShift="0,0,0" TexRotate="0"/>
      <Face p1="1.1275024,0.96154785,0" p2="-1.1275024,0.96154785,0" p3="-1.1275024,-0.96142578,0" NumberOfPoints="4" v0="20" v1="21" v2="22" v3="23" MatId="0" TexScale="1,1,0" TexShift="0,0,0" TexRotate="0"/>
     </Brush>
+   </Object>
+   <Object Type="Brush" Layer="Pictuel" Id="{031B8E4B-34BD-41EE-B7CE-F3CFC688A1A6}" Name="plate_small_8" Pos="894.50708,824.13428,1171.782" FloorNumber="-1" Rotate="0.96998024,0.0095301559,0.031476445,0.24094972" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/mausoleum/decoration/dish/plate_small_001.cgf" OutdoorOnly="0" CastShadowMaps="1" RainOccluder="1" SupportSecondVisarea="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" AIRadius="-1" NoStaticDecals="0" NoAmnbShadowCaster="0" RecvWind="0" Occluder="0" DrawLast="0" RndFlags="1610612744">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Brush" Layer="Pictuel" Id="{96424888-DFDB-4236-9538-68F9719E6785}" Name="plate_small_6" Pos="1044.6321,822.63428,1171.782" FloorNumber="-1" Rotate="0.96998024,0.0095301559,0.031476445,0.24094972" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/mausoleum/decoration/dish/plate_small_001.cgf" OutdoorOnly="0" CastShadowMaps="1" RainOccluder="1" SupportSecondVisarea="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" AIRadius="-1" NoStaticDecals="0" NoAmnbShadowCaster="0" RecvWind="0" Occluder="0" DrawLast="0" RndFlags="1610612744">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Brush" Layer="Pictuel" Id="{B8EEFE8C-FD08-447F-8B3D-5EC962B9071B}" Name="plate_small_9" Pos="884.25708,695.38428,1171.782" FloorNumber="-1" Rotate="0.96998024,0.0095301559,0.031476445,0.24094972" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/mausoleum/decoration/dish/plate_small_001.cgf" OutdoorOnly="0" CastShadowMaps="1" RainOccluder="1" SupportSecondVisarea="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" AIRadius="-1" NoStaticDecals="0" NoAmnbShadowCaster="0" RecvWind="0" Occluder="0" DrawLast="0" RndFlags="1610612744">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Brush" Layer="Pictuel" Id="{413CD999-5662-43EE-9976-74C02F4F054D}" Name="plate_small_10" Pos="1041.5071,696.00928,1171.782" FloorNumber="-1" Rotate="0.96998024,0.0095301559,0.031476445,0.24094972" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/mausoleum/decoration/dish/plate_small_001.cgf" OutdoorOnly="0" CastShadowMaps="1" RainOccluder="1" SupportSecondVisarea="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" AIRadius="-1" NoStaticDecals="0" NoAmnbShadowCaster="0" RecvWind="0" Occluder="0" DrawLast="0" RndFlags="1610612744">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Brush" Layer="Pictuel" Id="{11707CCF-C874-4BD1-908C-B46D56650AD6}" Name="plate_small_7" Pos="1188.6321,828.13428,1171.782" FloorNumber="-1" Rotate="0.96998024,0.0095301559,0.031476445,0.24094972" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/mausoleum/decoration/dish/plate_small_001.cgf" OutdoorOnly="0" CastShadowMaps="1" RainOccluder="1" SupportSecondVisarea="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" AIRadius="-1" NoStaticDecals="0" NoAmnbShadowCaster="0" RecvWind="0" Occluder="0" DrawLast="0" RndFlags="1610612744">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
    </Object>
    <Object RndFlags="1073741832" ViewDistRatio="100" LMQuality="-8.0297587e+018" ExcludePickingMaterial="0" Type="Solid" Layer="Pictuel" Id="{4EBE96DF-460F-41E7-BCA5-4EAB8696455C}" Name="red_box19" Pos="999.60632,1014.2734,1028.3125" FloorNumber="-1" Rotate="0.63607824,0,0,-0.77162462" ColorRGB="16776960" Material="Materials/mausoleum/test/test_metal_001" MatLayersMask="0">
     <Brush ZeroTolerance="0">
