@@ -1,0 +1,9 @@
+<Material MtlFlags="524288" Shader="Illum" GenMask="2080200" StringGenMask="%BUMP_MAP%GLOSS_MAP%OFFSET_BUMP_MAPPING" SurfaceType="mat_concrete" MatTemplate="" Diffuse="1,1,1" Specular="0,0,0" Emissive="0,0,0" Shininess="10" Opacity="0.99000001" CloakAmount="0" LayerAct="1">
+ <Textures>
+  <Texture Map="Diffuse" File="Textures/mausoleum/road/road_city_001_diff.dds"/>
+  <Texture Map="Specular" File="Textures/mausoleum/road/road_city_001_spec.dds"/>
+  <Texture Map="Bumpmap" File="Textures/mausoleum/road/road_city_001_ddn.dds"/>
+  <Texture Map="Heightmap" File="Textures/mausoleum/road/road_city_001_displ.dds"/>
+ </Textures>
+ <PublicParams SpecMapChannelB="0" SpecMapChannelR="0" GlossMapChannelB="0" SpecMapChannelG="0" FresnelScale="1" FresnelBias="1" SelfShadowStrength="3" ObmDisplacement="0.0031000001" HeightBias="1" IndirectColor="0.25,0.25,0.25"/>
+</Material>

@@ -1,0 +1,46 @@
+<Material MtlFlags="524544">
+ <SubMaterials>
+  <Material Name="stone" MtlFlags="524416" Shader="Illum" GenMask="8040200" StringGenMask="%BUMP_MAP%GLOSS_DIFFUSEALPHA%PARALLAX_OCCLUSION_MAPPING" SurfaceType="mat_rock" MatTemplate="" Diffuse="0.588,0.588,0.588" Specular="0.30000001,0.30000001,0.30000001" Emissive="0,0,0" Shininess="78" Opacity="1" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="Textures/mausoleum/fence/stone_metal/fence_garden_metalbars_001_diff.dds"/>
+    <Texture Map="Bumpmap" File="Textures/mausoleum/fence/stone_metal/fence_garden_metalbars_001_ddn.dds"/>
+    <Texture Map="Heightmap" File="Textures/mausoleum/fence/stone_metal/fence_garden_metalbars_001_displ.dds"/>
+   </Textures>
+   <PublicParams PomDisplacement="0.024800001" FresnelScale="3.72" FresnelBias="0.27000001" SelfShadowStrength="2.868" HeightBias="1" IndirectColor="0.25,0.25,0.25"/>
+  </Material>
+  <Material Name="metal" MtlFlags="524416" Shader="Illum" GenMask="40200" StringGenMask="%BUMP_MAP%GLOSS_DIFFUSEALPHA" SurfaceType="mat_metal" MatTemplate="" Diffuse="0.588,0.588,0.588" Specular="0,0,0" Emissive="0,0,0" Shininess="47" Opacity="1" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="Textures/mausoleum/fence/stone_metal/fence_garden_metalbars_001_diff.dds"/>
+    <Texture Map="Bumpmap" File="Textures/mausoleum/fence/stone_metal/fence_garden_metalbars_001_ddn.dds"/>
+    <Texture Map="Heightmap" File="Textures/mausoleum/fence/stone_metal/fence_garden_metalbars_001_displ.dds"/>
+   </Textures>
+   <PublicParams FresnelScale="0" FresnelBias="0" IndirectColor="0.25,0.25,0.25"/>
+  </Material>
+  <Material Name="brass" MtlFlags="524416" Shader="Illum" GenMask="8040200" StringGenMask="%BUMP_MAP%GLOSS_DIFFUSEALPHA%PARALLAX_OCCLUSION_MAPPING" SurfaceType="mat_metal" MatTemplate="" Diffuse="0.588,0.588,0.588" Specular="2,2,2" Emissive="0,0,0" Shininess="123" Opacity="1" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="Textures/mausoleum/fence/stone_metal/fence_garden_metalbars_001_diff.dds"/>
+    <Texture Map="Bumpmap" File="Textures/mausoleum/fence/stone_metal/fence_garden_metalbars_001_ddn.dds"/>
+    <Texture Map="Heightmap" File="Textures/mausoleum/fence/stone_metal/fence_garden_metalbars_001_displ.dds"/>
+   </Textures>
+   <PublicParams PomDisplacement="0.0198" FresnelScale="25.299999" FresnelBias="0.93000001" SelfShadowStrength="3" HeightBias="0.76700002" IndirectColor="0.25,0.25,0.25"/>
+  </Material>
+  <Material Name="concrete" MtlFlags="524416" Shader="Illum" GenMask="8040200" StringGenMask="%BUMP_MAP%GLOSS_DIFFUSEALPHA%PARALLAX_OCCLUSION_MAPPING" SurfaceType="mat_concrete" MatTemplate="" Diffuse="0.588,0.588,0.588" Specular="0.48000002,0.48000002,0.48000002" Emissive="0,0,0" Shininess="104" Opacity="1" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="Textures/mausoleum/fence/stone_metal/fence_garden_metalbars_001_diff.dds"/>
+    <Texture Map="Bumpmap" File="Textures/mausoleum/fence/stone_metal/fence_garden_metalbars_001_ddn.dds"/>
+    <Texture Map="Heightmap" File="Textures/mausoleum/fence/stone_metal/fence_garden_metalbars_001_displ.dds"/>
+   </Textures>
+   <PublicParams PomDisplacement="0.0128" FresnelScale="17.610001" FresnelBias="0.50400001" SelfShadowStrength="3" HeightBias="1" IndirectColor="0.25,0.25,0.25"/>
+  </Material>
+  <Material Name="stone_proxy" MtlFlags="525440" Shader="NoDraw" GenMask="0" StringGenMask="" SurfaceType="mat_rock" MatTemplate="" Diffuse="0.58823532,1,0.65490198" Specular="0,0,0" Emissive="0,0,0" Shininess="10" Opacity="0.40000001" LayerAct="1">
+   <Textures />
+  </Material>
+  <Material Name="metal_proxy" MtlFlags="525440" Shader="NoDraw" GenMask="0" StringGenMask="" SurfaceType="mat_metal" MatTemplate="" Diffuse="0.58823532,0.58823532,0.58823532" Specular="0,0,0" Emissive="0,0,0" Shininess="10" Opacity="0.40000001" LayerAct="1">
+   <Textures />
+  </Material>
+  <Material Name="concrete_proxy" MtlFlags="525440" Shader="NoDraw" GenMask="0" StringGenMask="" SurfaceType="mat_concrete" MatTemplate="" Diffuse="1,0.98431379,0.59215689" Specular="0,0,0" Emissive="0,0,0" Shininess="10" Opacity="0.40000001" LayerAct="1">
+   <Textures />
+  </Material>
+ </SubMaterials>
+ <PublicParams GlossFromDiffuseContrast="1" FresnelScale="1" GlossFromDiffuseOffset="0" FresnelBias="1" GlossFromDiffuseAmount="0" GlossFromDiffuseBrightness="0.333" IndirectColor="0.25,0.25,0.25"/>
+</Material>

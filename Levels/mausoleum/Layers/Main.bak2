@@ -1,0 +1,5 @@
+<ObjectLayer>
+ <Layer Name="Main" GUID="{53B5C7A3-D88C-4467-8F3C-1100DC888328}" FullName="Main" Hidden="0" Frozen="0" External="1" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" Expanded="1" IsDefaultColor="1" ID="0">
+  <LayerObjects />
+ </Layer>
+</ObjectLayer>

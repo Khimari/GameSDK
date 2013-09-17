@@ -1,0 +1,5 @@
+<ObjectLayer>
+ <Layer Name="Brushes" GUID="{180DC762-2463-42F3-8D1B-3AA121BDD194}" FullName="Pictuel/Brushes" Hidden="0" Frozen="0" External="1" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" Expanded="1" IsDefaultColor="1" ID="0" Specs="1" ParentGUID="{26B112A9-4250-4445-943A-D116354AC32E}">
+  <LayerObjects />
+ </Layer>
+</ObjectLayer>

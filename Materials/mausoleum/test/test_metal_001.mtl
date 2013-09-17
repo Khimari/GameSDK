@@ -1,0 +1,9 @@
+<Material MtlFlags="524288" Shader="Illum" GenMask="8040202" StringGenMask="%ALPHAGLOW%BUMP_MAP%GLOSS_DIFFUSEALPHA%PARALLAX_OCCLUSION_MAPPING" SurfaceType="" MatTemplate="" Diffuse="0.85125166,0.0041161771,0.037028514" Specular="0.54000002,0.54000002,0.54000002" Emissive="1,1,1" Shininess="189" Opacity="1" CloakAmount="0" vertModifType="8" LayerAct="1">
+ <Textures>
+  <Texture Map="Diffuse" File="Textures/mausoleum/test/test_metal_001_diff.dds"/>
+  <Texture Map="Bumpmap" File="Textures/mausoleum/test/test_metal_001_ddn.dds"/>
+  <Texture Map="Heightmap" File="Textures/mausoleum/test/test_metal_001_displ.dds"/>
+ </Textures>
+ <VertexDeform Type="8" DividerX="0" DividerY="0" DividerZ="0.0099999998" DividerW="0" NoiseScale="1,1,1"/>
+ <PublicParams PomDisplacement="0.050000001" FresnelScale="32" AmbientMultiplier="0" FresnelBias="0.403" SelfShadowStrength="2.424" HeightBias="1" IndirectColor="0.25,0.25,0.25"/>
+</Material>

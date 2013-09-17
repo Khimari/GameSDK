@@ -1,0 +1,5 @@
+<ObjectLayer>
+ <Layer Name="Decals" GUID="{739A7A60-AB46-40DE-AE83-7C578BE95FEB}" FullName="Pictuel/Decals" Hidden="0" Frozen="0" External="1" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" Expanded="0" IsDefaultColor="1" ID="0" Specs="1" ParentGUID="{26B112A9-4250-4445-943A-D116354AC32E}">
+  <LayerObjects />
+ </Layer>
+</ObjectLayer>
