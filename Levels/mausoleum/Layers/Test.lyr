@@ -127,6 +127,18 @@
      <Face p1="1.1275024,0.96154785,0" p2="-1.1275024,0.96154785,0" p3="-1.1275024,-0.96142578,0" NumberOfPoints="4" v0="20" v1="21" v2="22" v3="23" MatId="0" TexScale="1,1,0" TexShift="0,0,0" TexRotate="0"/>
     </Brush>
    </Object>
+   <Object RndFlags="1073741832" ViewDistRatio="100" LMQuality="-8.0297587e+018" ExcludePickingMaterial="0" Type="Solid" Layer="Test" Id="{64D0F487-7D0C-4E29-9976-459406A7AE89}" Name="Solid192" Pos="909.49994,980.06238,1023.9999" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16776960" Material="Materials/mausoleum/test/bump_test" MatLayersMask="0">
+    <Brush ZeroTolerance="0">
+     <Face p1="-1.75,2.0625,3.374939" p2="-1.75,-2.0625,3.374939" p3="-1.75,-2.0625,0" NumberOfPoints="4" v0="0" v1="1" v2="2" v3="3" MatId="0" TexScale="1,1,0" TexShift="0,0,0" TexRotate="0">
+      <Vertex NumberOfVertices="24" p0="-1.75,-2.0625,0" p1="-1.75,-2.0625,3.374939" p2="-1.75,2.0625,3.374939" p3="-1.75,2.0625,0" p4="-1.75,2.0625,0" p5="-1.75,2.0625,3.374939" p6="1.75,2.0625,3.374939" p7="1.75,2.0625,0" p8="1.75,2.0625,0" p9="1.75,2.0625,3.374939" p10="1.75,-2.0625,3.374939" p11="1.75,-2.0625,0" p12="1.75,-2.0625,0" p13="1.75,-2.0625,3.374939" p14="-1.75,-2.0625,3.374939" p15="-1.75,-2.0625,0" p16="1.75,2.0625,3.374939" p17="-1.75,2.0625,3.374939" p18="-1.75,-2.0625,3.374939" p19="1.75,-2.0625,3.374939" p20="-1.75,-2.0625,0" p21="-1.75,2.0625,0" p22="1.75,2.0625,0" p23="1.75,-2.0625,0"/>
+     </Face>
+     <Face p1="1.75,2.0625,3.374939" p2="-1.75,2.0625,3.374939" p3="-1.75,2.0625,0" NumberOfPoints="4" v0="4" v1="5" v2="6" v3="7" MatId="0" TexScale="1,1,0" TexShift="0,0,0" TexRotate="0"/>
+     <Face p1="1.75,-2.0625,3.374939" p2="1.75,2.0625,3.374939" p3="1.75,2.0625,0" NumberOfPoints="4" v0="8" v1="9" v2="10" v3="11" MatId="0" TexScale="1,1,0" TexShift="0,0,0" TexRotate="0"/>
+     <Face p1="-1.75,-2.0625,3.374939" p2="1.75,-2.0625,3.374939" p3="1.75,-2.0625,0" NumberOfPoints="4" v0="12" v1="13" v2="14" v3="15" MatId="0" TexScale="1,1,0" TexShift="0,0,0" TexRotate="0"/>
+     <Face p1="-1.75,-2.0625,3.374939" p2="-1.75,2.0625,3.374939" p3="1.75,2.0625,3.374939" NumberOfPoints="4" v0="16" v1="17" v2="18" v3="19" MatId="0" TexScale="1,1,0" TexShift="0,0,0" TexRotate="0"/>
+     <Face p1="1.75,2.0625,0" p2="-1.75,2.0625,0" p3="-1.75,-2.0625,0" NumberOfPoints="4" v0="20" v1="21" v2="22" v3="23" MatId="0" TexScale="1,1,0" TexShift="0,0,0" TexRotate="0"/>
+    </Brush>
+   </Object>
    <Object RndFlags="1073741832" ViewDistRatio="100" LMQuality="-8.0297587e+018" ExcludePickingMaterial="0" Type="Solid" Layer="Test" Id="{A173AA89-6119-4CC9-B63E-03974EB6CC97}" Name="red_box3" Pos="976.19702,1001.8599,1028.3125" FloorNumber="-1" Rotate="0.63607824,0,0,-0.77162462" ColorRGB="16776960" Material="Materials/mausoleum/test/test_metal_001" MatLayersMask="0">
     <Brush ZeroTolerance="0">
      <Face p1="-1.1275024,0.96154785,2.5916748" p2="-1.1275024,-0.96142578,2.5916748" p3="-1.1275024,-0.96142578,0" NumberOfPoints="4" v0="0" v1="1" v2="2" v3="3" MatId="0" TexScale="1,1,0" TexShift="0,0,0" TexRotate="0">
