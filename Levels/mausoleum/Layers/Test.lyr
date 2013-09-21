@@ -133,6 +133,12 @@
      <Face p1="1.1275024,0.96154785,0" p2="-1.1275024,0.96154785,0" p3="-1.1275024,-0.96142578,0" NumberOfPoints="4" v0="20" v1="21" v2="22" v3="23" MatId="0" TexScale="1,1,0" TexShift="0,0,0" TexRotate="0"/>
     </Brush>
    </Object>
+   <Object Type="Brush" Layer="Test" Id="{4A99F384-5641-485A-AA39-D7FB0766ADEC}" Name="table_test1" Pos="944.12494,1013.7499,1023.9999" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/mausoleum/test/table_test.cgf" OutdoorOnly="0" CastShadowMaps="1" RainOccluder="1" SupportSecondVisarea="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" AIRadius="-1" NoStaticDecals="0" NoAmnbShadowCaster="0" RecvWind="0" Occluder="0" DrawLast="0" RndFlags="1610612744">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
    <Object RndFlags="1073741832" ViewDistRatio="100" LMQuality="-8.0297587e+018" ExcludePickingMaterial="0" Type="Solid" Layer="Test" Id="{64D0F487-7D0C-4E29-9976-459406A7AE89}" Name="Solid192" Pos="909.49994,980.06238,1023.9999" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16776960" Material="Materials/mausoleum/test/bump_test" MatLayersMask="0">
     <Brush ZeroTolerance="0">
      <Face p1="-1.75,2.0625,3.374939" p2="-1.75,-2.0625,3.374939" p3="-1.75,-2.0625,0" NumberOfPoints="4" v0="0" v1="1" v2="2" v3="3" MatId="0" TexScale="1,1,0" TexShift="0,0,0" TexRotate="0">
