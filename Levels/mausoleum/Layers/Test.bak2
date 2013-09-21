@@ -226,6 +226,12 @@
      <Face p1="1.1275024,0.96154785,0" p2="-1.1275024,0.96154785,0" p3="-1.1275024,-0.96142578,0" NumberOfPoints="4" v0="20" v1="21" v2="22" v3="23" MatId="0" TexScale="1,1,0" TexShift="0,0,0" TexRotate="0"/>
     </Brush>
    </Object>
+   <Object Type="Brush" Layer="Test" Id="{D08DFBBF-E6B9-4B64-9E0D-F4EF2D116471}" Name="box_test1" Pos="944.37494,1016.2499,1023.9999" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/mausoleum/test/box_test.cgf" OutdoorOnly="0" CastShadowMaps="1" RainOccluder="1" SupportSecondVisarea="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" AIRadius="-1" NoStaticDecals="0" NoAmnbShadowCaster="0" RecvWind="0" Occluder="0" DrawLast="0" RndFlags="1610612744">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
    <Object Type="Entity" Layer="Test" Id="{518D08CC-4404-43FA-8EFB-FF6A66BE96B1}" Name="Door1" Pos="948.88464,1008.6576,1023.9083" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="Door">
     <Properties bActivatePortal="0" bLocked="0" fileModel="objects/mausoleum/fence/stone_metal/gate_garden_metalbars_001.cgf" soclasses_SmartObjectClass="Door" bSquashPlayers="0" bUsable="1" fUseDistance="46.2" UseMessage="@use_door">
      <Rotation fAcceleration="53.8" sAxis="z" sFrontAxis="y" fRange="90" bRelativeToUser="0" fSpeed="200" fStopTime="0.125"/>

@@ -1,0 +1,16 @@
+<Material MtlFlags="524544">
+ <SubMaterials>
+  <Material Name="material" MtlFlags="524416" Shader="Illum" GenMask="8000201" StringGenMask="%ALLOW_SILHOUETTE_POM%BUMP_MAP%PARALLAX_OCCLUSION_MAPPING" SurfaceType="mat_plastic" MatTemplate="" Diffuse="0.588,0.588,0.588" Specular="0,0,0" Emissive="0,0,0" Shininess="10" Opacity="1" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="textures/mausoleum/test/ball.dds"/>
+    <Texture Map="Bumpmap" File="textures/mausoleum/test/gaming_box_ddn.dds"/>
+    <Texture Map="Heightmap" File="textures/mausoleum/test/gaming_box_displ.dds"/>
+   </Textures>
+   <PublicParams GlossFromDiffuseContrast="1" PomDisplacement="0.0262" FresnelScale="1" GlossFromDiffuseOffset="0" FresnelBias="1" GlossFromDiffuseAmount="0" GlossFromDiffuseBrightness="0.333" SelfShadowStrength="3" HeightBias="0.498" IndirectColor="0.25,0.25,0.25"/>
+  </Material>
+  <Material Name="material_proxy" MtlFlags="525440" Shader="NoDraw" GenMask="0" StringGenMask="" SurfaceType="mat_plastic" MatTemplate="" Diffuse="0.63529414,1,0.58823532" Specular="0,0,0" Emissive="0,0,0" Shininess="10" Opacity="0.40000001" LayerAct="1">
+   <Textures />
+  </Material>
+ </SubMaterials>
+ <PublicParams GlossFromDiffuseContrast="1" FresnelScale="1" GlossFromDiffuseOffset="0" FresnelBias="1" GlossFromDiffuseAmount="0" GlossFromDiffuseBrightness="0.333" IndirectColor="0.25,0.25,0.25"/>
+</Material>
