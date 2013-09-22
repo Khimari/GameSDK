@@ -10,7 +10,7 @@
      <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
     </Properties>
    </Object>
-   <Object Type="Entity" Layer="Lights" Id="{B57CD886-03E8-49FE-A561-BBC4047C2965}" Name="Light1" Pos="945.27228,1011.7654,1028.5458" FloorNumber="-1" Rotate="0.99619472,0,0,0.087155759" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="8" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="Light">
+   <Object Type="Entity" Layer="Lights" Id="{B57CD886-03E8-49FE-A561-BBC4047C2965}" Name="Light1" Pos="945.27228,1011.7654,1028.5458" FloorNumber="-1" Rotate="0.99619472,0,0,0.087155767" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="8" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="Light">
     <Properties bActive="1" _bCheapLight="0" bForceDisableCheapLight="0" Radius="12.01" _nVersion="0">
      <Color clrDiffuse="1,1,1" fDiffuseMultiplier="1.8" fHDRDynamic="0" fSpecularMultiplier="1"/>
      <Options bAffectsThisAreaOnly="1" bAmbient="0" fAttenuationFalloffMax="1" nCastShadows="4" file_deferred_clip_geom="" texture_deferred_cubemap="" bDeferredClipBounds="0" bDisableX360Opto="0" bFakeLight="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" bIgnoresVisAreas="0" bIrradianceVolumes="0" fShadowBias="1" nShadowMinResPercent="0" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1" SortPriority="0"/>
