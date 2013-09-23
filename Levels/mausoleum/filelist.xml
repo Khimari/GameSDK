@@ -1,6 +1,6 @@
 <download name="mausoleum" type="Map">
  <index src="filelist.xml" dest="filelist.xml"/>
  <files>
-  <file src="level.pak" dest="level.pak" size="231729" md5="391c58738c28f785970af44fc3b82849"/>
+  <file src="level.pak" dest="level.pak" size="181861" md5="0badbe8f0a4847992cd5946985fdde87"/>
  </files>
 </download>

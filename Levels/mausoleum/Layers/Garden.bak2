@@ -1,12 +1,6 @@
 <ObjectLayer>
  <Layer Name="Garden" GUID="{0BA86F76-2A6F-445B-A89E-9830C2AFEC83}" FullName="Garden" Hidden="0" Frozen="0" External="1" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" Expanded="0" IsDefaultColor="1" ID="0">
   <LayerObjects>
-   <Object Type="Brush" Layer="Garden" Id="{FDCF1300-1410-4B28-9B96-16C181696F2C}" Name="fence_garden_metalbars_89" Pos="175.1282,488.17184,0" FloorNumber="-1" Rotate="0.70710665,0,0,0.70710665" ColorRGB="16777215" MatLayersMask="0" Prefab="objects/mausoleum/fence/stone_metal/fence_garden_metalbars_001.cgf" OutdoorOnly="0" CastShadowMaps="1" RainOccluder="1" SupportSecondVisarea="0" Hideable="0" LodRatio="3" ViewDistRatio="255" NotTriangulate="0" AIRadius="-1" NoStaticDecals="0" NoAmnbShadowCaster="0" RecvWind="0" Occluder="0" DrawLast="0" RndFlags="1610612744">
-    <CollisionFiltering>
-     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
-     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
-    </CollisionFiltering>
-   </Object>
    <Object Type="Brush" Layer="Garden" Id="{9E6D9401-93AF-4E19-9945-E79D959888DF}" Name="fence_garden_metalbars_76" Pos="272.08075,641.11536,0.00024414063" FloorNumber="-1" Rotate="0.70710677,0,0,0.70710677" ColorRGB="16777215" MatLayersMask="0" Prefab="objects/mausoleum/fence/stone_metal/fence_garden_metalbars_001.cgf" OutdoorOnly="0" CastShadowMaps="1" RainOccluder="1" SupportSecondVisarea="0" Hideable="0" LodRatio="3" ViewDistRatio="255" NotTriangulate="0" AIRadius="-1" NoStaticDecals="0" NoAmnbShadowCaster="0" RecvWind="0" Occluder="0" DrawLast="0" RndFlags="1610612744">
     <CollisionFiltering>
      <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
@@ -170,6 +164,12 @@
     </CollisionFiltering>
    </Object>
    <Object Type="Brush" Layer="Garden" Id="{3439AE8C-4902-408A-BC53-F26B4D747525}" Name="fence_garden_metalbars_66" Pos="272.08075,582.61536,0.00024414063" FloorNumber="-1" Rotate="0.70710677,0,0,0.70710677" ColorRGB="16777215" MatLayersMask="0" Prefab="objects/mausoleum/fence/stone_metal/fence_garden_metalbars_001.cgf" OutdoorOnly="0" CastShadowMaps="1" RainOccluder="1" SupportSecondVisarea="0" Hideable="0" LodRatio="3" ViewDistRatio="255" NotTriangulate="0" AIRadius="-1" NoStaticDecals="0" NoAmnbShadowCaster="0" RecvWind="0" Occluder="0" DrawLast="0" RndFlags="1610612744">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Brush" Layer="Garden" Id="{257D088D-D1A5-4A91-A2CD-CC1CB36335D2}" Name="fence_garden_metalbars_49" Pos="272.08075,608.61536,0.00024414063" FloorNumber="-1" Rotate="0.70710677,0,0,0.70710677" ColorRGB="16777215" MatLayersMask="0" Prefab="objects/mausoleum/fence/stone_metal/fence_garden_metalbars_001.cgf" OutdoorOnly="0" CastShadowMaps="1" RainOccluder="1" SupportSecondVisarea="0" Hideable="0" LodRatio="3" ViewDistRatio="255" NotTriangulate="0" AIRadius="-1" NoStaticDecals="0" NoAmnbShadowCaster="0" RecvWind="0" Occluder="0" DrawLast="0" RndFlags="1610612744">
     <CollisionFiltering>
      <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
      <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
