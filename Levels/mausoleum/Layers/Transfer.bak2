@@ -1,18 +1,5 @@
 <ObjectLayer>
  <Layer Name="Transfer" GUID="{FEC9512E-8111-4865-9F24-FB42EE54B751}" FullName="Transfer" Hidden="0" Frozen="0" External="1" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" Expanded="0" IsDefaultColor="1" ID="0">
-  <LayerObjects>
-   <Object Type="Brush" Layer="Transfer" Id="{8244914C-6C47-4D4D-BCB1-20BE5BD0AA33}" Name="Ball1" Pos="968.96198,992.58936,1024.3048" FloorNumber="-1" Rotate="0.95881975,0,0,0.28401536" ColorRGB="16777215" MatLayersMask="0" Prefab="objects/mausoleum/test/ball.cgf" OutdoorOnly="0" CastShadowMaps="1" RainOccluder="1" SupportSecondVisarea="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" AIRadius="-1" NoStaticDecals="0" NoAmnbShadowCaster="0" RecvWind="0" Occluder="0" DrawLast="0" RndFlags="1610612744">
-    <CollisionFiltering>
-     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
-     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
-    </CollisionFiltering>
-   </Object>
-   <Object Type="Brush" Layer="Transfer" Id="{B56CA0CF-18F1-47F5-9E3C-FB51367F9887}" Name="plate_small_1" Pos="1081.0786,1019.0635,1024" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/mausoleum/decoration/dish/plate_small_001.cgf" OutdoorOnly="0" CastShadowMaps="1" RainOccluder="1" SupportSecondVisarea="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" AIRadius="-1" NoStaticDecals="0" NoAmnbShadowCaster="0" RecvWind="0" Occluder="0" DrawLast="0" RndFlags="1610612744">
-    <CollisionFiltering>
-     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
-     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
-    </CollisionFiltering>
-   </Object>
-  </LayerObjects>
+  <LayerObjects />
  </Layer>
 </ObjectLayer>
